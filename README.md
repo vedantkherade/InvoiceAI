@@ -1,4 +1,4 @@
-# InvoiceAI
+# 🧾 InvoiceAI
 
 An AI-powered invoice generation and management platform built with the MERN stack and Google Gemini AI. InvoiceAI enables businesses and freelancers to create professional invoices using natural language prompts, manage invoice records, track revenue, and streamline billing workflows through a modern and intuitive dashboard.
 
